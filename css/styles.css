@@ -1,0 +1,46 @@
+/*Core styles*/
+*{
+    margin:0;
+    padding:0;
+    border:0;
+    /*border: solid 1px white;*/
+    box-sizing:border-box;
+    text-decoration:none;
+}
+body {
+    font-family: 'Antic Slab', serif;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+/*Main Styles*/
+h1 {
+    color: brown;
+    opacity:0.1 ;
+    font-size: 5em;
+    text-align: center;
+    margin: 0.5em;
+}
+.img1 {
+    /*background-color:blue;*/
+    width: 1024;
+    height: 100vh;
+    margin: 2em;
+    text-align: center;
+}
+.aimg {
+    width: 30em;
+
+}
+.bimg{
+    padding-top: -5em;
+    width: 59em;
+    height: 50em;
+}
+
+footer {
+    text-align: center;
+    margin: 3em;
+    color: rgb(236, 168, 168);
+}
