@@ -23,11 +23,10 @@ h1 {
     margin: 0.5em;
 }
 .img1 {
-    /*background-color:blue;*/
     width: 1024;
     height: 100vh;
     margin: 2em;
-    text-align: center;
+    align-items: center;
 }
 .aimg {
     width: 30em;
@@ -35,12 +34,13 @@ h1 {
 }
 .bimg{
     padding-top: -5em;
-    width: 42em;
-    height: 55em;
+    width: 32em;
+    border-color: brown;
 }
 
 footer {
+    margin: 2em;
     text-align: center;
-    margin: 3em;
     color: rgb(236, 168, 168);
+
 }
